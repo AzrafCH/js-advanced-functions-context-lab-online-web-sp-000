@@ -8,7 +8,7 @@
  As a result, the lessons for this function will pass *and* it will be available
  for you to use if you need it!
  */
- 
+
 let createEmployeeRecord = function(row){
     return {
         firstName: row[0],
